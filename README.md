@@ -1,5 +1,7 @@
 # Honeypot
 
+- [X] GIF Walkthrough: ![](https://i.imgur.com/f5MoG9c.gif)
+
 Honeypots deployed:
 - Dionaea [ref](https://dionaea.readthedocs.io/en/latest/introduction.html)
 - centos/rasberrypi - Kippo (renamed to cowrie) [ref](https://github.com/threatstream/mhn/wiki/Cowrie-Sensor)
