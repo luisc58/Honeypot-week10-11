@@ -1,6 +1,6 @@
 # Honeypot
 
-- [X] GIF Walkthrough: ![](https://i.imgur.com/f5MoG9c.gif)
+- [X] GIF Walkthrough: ![](https://media.giphy.com/media/gFmzAdT2Fi3pqtD5H1/giphy.gif)
 
 Honeypots deployed:
 - Dionaea [ref](https://dionaea.readthedocs.io/en/latest/introduction.html)
