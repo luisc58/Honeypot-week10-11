@@ -17,7 +17,7 @@ Issues encountered:
 - GCP Project selection was unclear on what to use, create a new one or existing one?
 
 Data Collected:
-- 374 Attacks recieved
+- 3,174 Attacks recieved
 - Honey pots #4,5 didn't receive any attacks
 - Honeypot Dionaea was the one with most attacks recieved (most likely from being initialized first)
 
